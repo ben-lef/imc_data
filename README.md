@@ -1,5 +1,5 @@
 # Supplementary data for the article:
-## "Quantication of intermetallic compound layer morphology in aluminum-steel arc welding"
+## "Quantification of intermetallic compound layer morphology in aluminum-steel arc welding"
 
 The Python file "code.py" is furnished to process the database containing all the information about the IMC reported in the aforementioned article. 
 The database is a large file and could not be directly stored in GitHub. It can be downloaded from the following link: <ins>https://leflon.fr/benjamin/imc_data.csv</ins>

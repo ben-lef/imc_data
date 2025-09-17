@@ -23,7 +23,7 @@ from matplotlib.ticker import FixedLocator, FixedFormatter, FormatStrFormatter
 #%% Reading database
 
 code_dir = Path(__file__).parent
-rel_path = 'data.csv'
+rel_path = 'imc_data.csv'
 
 data_path = (code_dir / rel_path).resolve()
 
